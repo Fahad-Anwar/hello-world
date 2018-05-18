@@ -18,7 +18,7 @@ public class CHAAlgorithm extends CallGraphAlgorithm {
         // To get your entry points we prepared getEntryPoints(scene) in the superclass for you
         System.out.println("scene: " + scene + "\n" + "CallGraph: " + cg);
         System.out.println("EntryPoints: "+ getEntryPoints(scene));
-        //
+        //////
 
     }
 
