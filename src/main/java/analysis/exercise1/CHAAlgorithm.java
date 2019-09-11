@@ -15,7 +15,7 @@ public class CHAAlgorithm extends CallGraphAlgorithm {
 
 	@Override
 	protected String getAlgorithm() {
-		return "CHA";//"test3"
+		return "CHA";//"test4"
 	}
 
 	@Override
