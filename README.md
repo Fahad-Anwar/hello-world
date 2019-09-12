@@ -1,3 +1,3 @@
 # hello-world
 SampleDescription
-master local
+Master up
