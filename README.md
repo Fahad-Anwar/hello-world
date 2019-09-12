@@ -1,6 +1,3 @@
 # hello-world
 SampleDescription
-Master
-
-test channge
-
+Remote master changed
